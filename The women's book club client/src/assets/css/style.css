@@ -1,0 +1,23 @@
+.btn {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    /* background-color: rgb(95, 159, 244); */
+    background-color: #E8B2B9;
+    color: #fff;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background-color: #E8B2B9;
+}
+
+.el-button {
+    padding: 7px 14px !important;
+    border-radius: 5px !important;
+    font-size: 15px !important;
+}
+
+.el-dialog {
+    border-radius: 5px !important;
+}
